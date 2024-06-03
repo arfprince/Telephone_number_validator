@@ -43,6 +43,13 @@ main{
     border-radius: 10px;
     border: 1px solid black;
 }
+#results-div{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: medium;
+    height: 40px;
+    padding: 10px;
+    color: #4D3800;
+}
 .cotroller{
     padding-top: 20px;
     gap: 50px;
